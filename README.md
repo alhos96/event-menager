@@ -16,7 +16,7 @@ In this MERN stack application the **frontend** is developed in HTML5, CSS3 and 
 
 #### backend
 
-In terminal type command `cd server` and add your own .env file with following variables: **PORT** use 5000,  **MONGO_URI** use "mongodb+srv://**username**:**password**@pizzaordercomposer.n9nav.mongodb.net/**project_number**?retryWrites=true&w=majority" and **JWT_SECRET** . After that run `npm install` to install all the dependencies. After completing these steps run `npm start` script. 
+In terminal type command `cd server` and add your own **.env** file with following variables: **PORT** use 5000,  **MONGO_URI** use "mongodb+srv://**username**:**password**@pizzaordercomposer.n9nav.mongodb.net/**project_number**?retryWrites=true&w=majority" and **JWT_SECRET** . After that run `npm install` to install all the dependencies. After completing these steps run `npm start` script. 
 
 That runs the server part of application in the development mode on http://localhost:5000.
 
