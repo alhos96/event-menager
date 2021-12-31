@@ -3,7 +3,7 @@ The centralized event management system enables platform users to post different
 
 ## technologies
 In this MERN stack application the **frontend** is developed in HTML5, CSS3 and React.js while **backend** is created in Express and Node.js. 
-**Data** is stored in MongoDB Atlas and users can access only their data but no others.
+**Data** is stored in MongoDB Atlas and users can access only their data but no others. The connection between users is established with **Socket.IO** library.
 
 ## description and features
 - The system allows all users to create their own events, request registration on the events, so that they can attend chosen events. Users are also able to receive notifications right after other app users sends a registration request, which they can accept or reject. Users can keep track on received registration requests with registration requests list. Event creators can also delete events they have posted.
