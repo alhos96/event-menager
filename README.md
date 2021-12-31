@@ -2,7 +2,7 @@
 The centralized event management system enables platform users to post different kinds of events and also enable interested attendees to register online for these events.
 
 ## technologies
-In this MERN stack application the **frontend** is developed in HTML5, CSS3 and React.js while **backend** is created in Express and Node.js. 
+In this MERN stack application the **frontend** is developed in HTML5, CSS3 and React.js with Material UI, while **backend** is created in Express and Node.js. 
 **Data** is stored in MongoDB Atlas and users can access only their data but no others. The connection between users is established with **Socket.IO** library.
 
 ## description and features
